@@ -9,4 +9,6 @@
 
 #### resources for doing this
 
+##Resources Are Better Than No Resources
+
 - https://help.github.com/articles/markdown-basics/
