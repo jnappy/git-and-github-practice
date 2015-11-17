@@ -13,7 +13,7 @@ In the meantime, feel free to reach out with any questions (or just to say hi)!
 Please complete the following by the first day of class. Feel free to shoot us an email with any questions:
 
 ### Schedule
-[ ] Add the following information to your calendars:
+- [ ] Add the following information to your calendars:
 * Time: (Time)
 * Meeting days: (Days)
 * Start date: (Date)
