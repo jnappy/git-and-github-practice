@@ -33,8 +33,8 @@ Please complete the following by the first day of class. Feel free to shoot us a
 The following instructions assume you are using a Mac. If you are a Linux or PC user, please review specific instructions for your environment. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
 
 1. Install Python [ ]
-Follow the installation instructions for Python <2.7> on your computer. 
-        - *Note: we will be using Python <2.7>, not Python <3>.*
+        2. Follow the installation instructions for Python <2.7> on your computer.
+        3. *Note: we will be using Python <2.7>, not Python <3>.*
 2. Install Package Manager [ ]
         - Install [homebrew](http://brew.sh/), a popular package manager for OSx.
 3. Install Anaconda [ ]
