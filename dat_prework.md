@@ -22,12 +22,12 @@ Please complete the following by the first day of class. Feel free to shoot us a
 * Classroom: (Number)
 
 ### Introductions
-1. [ ] In order for us to get to know you, please fill out this [Student Profile Survey] before the first class.
-2. [ ] Please also complete this [Preliminary Skills Survey] in order to help us place you in complementary groups.
+1. [ ] Fill out this [Student Profile Survey] in order for us to get to know you.
+2. [ ] Complete this [Preliminary Skills Survey] in order to help us place you in complementary groups.
 
 ### Accounts
-1. [ ] Create a Github account
-2. [ ] Create a Slack / Hipchat account
+1. [ ] Create a Github account, if you don't already have one.
+2. [ ] Create a Slack / Hipchat account and download the desktop/mobile apps.
 
 ### Installations
 The following instructions assume you are using a Mac. If you are a Linux or PC user, please review specific instructions for your environment. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
@@ -48,7 +48,7 @@ The following instructions assume you are using a Mac. If you are a Linux or PC 
 If successful, in a few moments, your browser should open to a window titled "Jupyter."
 
 ### Start Practicing (Optional)
-Here are a few resources that will help introduce you to some commonly used syntax and tools.
+Here are a few optional resources that will help introduce you to some commonly used syntax and tools.
 
 1. Complete Codecademy's free ["Learn Python"](https://www.codecademy.com/learn/python) lesson to start practicing Python syntax.
     - *Alternative / Additional Options:*
@@ -65,7 +65,7 @@ Here are a few resources that will help introduce you to some commonly used synt
         - [Project Euler](https://projecteuler.net) - Try playing with this set of computational problems.
 
 ### Additional Resources (Optional)
-While we won't be following any specific textbooks in this course, some students have asked for additional resources. Here are a few options, in order from beginner to advanced:
+While we won't be following any specific textbooks in this course, some students have asked for additional resources. Here are a few options, ranging from beginner to advanced:
 
   * [The Quick Python Book](http://www.amazon.com/Quick-Python-Book-Second-Edition/dp/193518220X)
   * [Data Analysis With Open Source Tools](http://www.amazon.com/Data-Analysis-Open-Source-Tools/dp/0596802358)
