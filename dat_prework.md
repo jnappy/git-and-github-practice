@@ -2,15 +2,14 @@
 
 Welcome to Data Science at General Assembly!
 
-In order to ensure your success in the course, we’ve made a pre-course checklist. Complete all the items on the list and when you arrive on your first day, you and your computer will be prepared for the first lesson.
+We are all very excited that you're joining our General Assembly community. In order to ensure your success in the course, we’ve created a pre-course checklist. Please complete the following pre-work items before your first day so that you and your computer will both be prepared for class.
 
-We are all very excited to have you join the General Assembly community. Here's some information about your instructional team, in case you want to reach out and ask any questions (or just say hi)!
-
+Before class begins, feel free to reach out and ask questions (or just say hi)!
 * Instructor: (Name | Email)
-* TA: (Name | Email)
+* TA's: (Names | Emails)
 * Expert-in-Residence: (Name | Email)
 
-And please add the following information to your calendars:
+And don't forget to add the following information to your calendars:
 * Time: (Time)
 * Meeting days: (Days)
 * Start date: (Date)
