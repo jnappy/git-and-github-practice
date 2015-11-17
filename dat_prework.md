@@ -22,22 +22,24 @@ And please add the following information to your calendars:
 Please complete the following by the first day of class. Feel free to shoot us an email with any questions:
 
 ### Introductions
-1. In order for us to get to know you, please fill out this [Student Profile Survey] before the first class.
-2. Please also complete this [Preliminary Skills Survey] in order to help us place you in complementary groups.
+1. [ ] In order for us to get to know you, please fill out this [Student Profile Survey] before the first class.
+2. [ ] Please also complete this [Preliminary Skills Survey] in order to help us place you in complementary groups.
 
 ### Accounts
-1. Create a Github account
-2. Create a Slack / Hipchat account
+1. [ ] Create a Github account
+2. [ ] Create a Slack / Hipchat account
 
 ### Installations
 The following instructions assume you are using a Mac. If you are a Linux or PC user, please review specific instructions for your environment. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
 
 1. [ ] Install Python
-    - Follow the installation instructions for Python <2.7> on your computer. *Note: we will be using Python <2.7>, not Python <3>.*
+    - Follow the installation instructions for Python <2.7> on your computer. 
+        - *Note: we will be using Python <2.7>, not Python <3>.*
 2. [ ] Install Package Manager
     - Install [homebrew](http://brew.sh/), a popular package manager for OSx.
 3. [ ] Install Anaconda
-    - Follow the instructions [from this link](https://www.continuum.io/downloads) to download and install Anaconda, a popular set of Python tools used for data science. If you get stuck, try reading the [documentation](http://docs.continuum.io/anaconda/install.html).
+    - Follow the instructions [from this link](https://www.continuum.io/downloads) to download and install Anaconda, a popular set of Python tools used for data science.
+        - If you get stuck, try reading the [documentation](http://docs.continuum.io/anaconda/install.html).
 4. [ ] Test for Successful Install
     - Test that Anaconda is installed correctly by opening a Terminal window and entering:
       '''ipython notebook'''
