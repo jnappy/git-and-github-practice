@@ -45,6 +45,7 @@ The following instructions assume you are using a Mac. If you are a Linux or PC 
 
 ### Start Practicing (Optional)
 Here are a few resources that will help introduce you to some commonly used syntax and tools.
+
 1. Complete Codecademy's free ["Learn Python"](https://www.codecademy.com/learn/python) lesson to start practicing Python syntax.
     - *Alternative / Additional Options:*
         - [Learn Python](http://www.learnpython.org) - Complete "Learn the Basics".
