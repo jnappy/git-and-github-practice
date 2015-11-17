@@ -44,6 +44,7 @@ The following instructions assume you are using a Mac. If you are a Linux or PC 
     - Test that Anaconda is installed correctly by opening a Terminal window and entering:
 
     ```ipython notebook```
+
 If successful, in a few moments, your browser should open to a window titled "Jupyter."
 
 ### Start Practicing (Optional)
