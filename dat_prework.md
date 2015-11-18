@@ -2,7 +2,7 @@
 
 Welcome to Data Science at General Assembly!
 
-We're all really excited that you're joining the General Assembly community. In order to ensure your success in the course, we’ve created a short pre-course checklist. Please complete the following pre-work items before your first day so that both you and your computer will be prepared for class.
+We're all really excited that you're joining the General Assembly community. In order to ensure your success in the course, we’ve created a pre-work checklist that will take 10-15 hours. Please complete the following pre-work items before your first day so that both you and your computer will be prepared for class.
 
 In the meantime, feel free to reach out with any questions (or just to say hi)!
 * Instructor: (Name | Email)
@@ -29,11 +29,11 @@ Please complete the following by the first day of class. Feel free to shoot us a
 1. [ ] Create a Github account, if you don't already have one.
 
 ### Installations
-The following instructions assume you are using a Mac. If you are a Linux or PC user, please review specific instructions for your environment. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
+Please follow the instructions below. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
 
 1. [ ] Install Python
-    - Follow the installation instructions [from this link](https://www.python.org/downloads/)to install Python 2.7 on your computer. 
-        - *Note: Make sure to install version 2.7, and NOT Python 3. Currently, version 2.7 is the general industry standard.*
+    - Follow the installation instructions [from this link](https://www.python.org/downloads/) to install Python 2.7 on your computer. 
+        - *Note: Make sure to install version 2.7, NOT Python 3. Currently, version 2.7 is the general industry standard.*
 2. [ ] Install Anaconda
     - Follow the instructions [from this link](https://www.continuum.io/downloads) to download and install Anaconda, a popular set of Python tools used for data science.
         - If you get stuck, try reading the [documentation](http://docs.continuum.io/anaconda/install.html).
@@ -49,11 +49,11 @@ Here are a few optional resources that will help introduce you to some commonly 
 
 1. Complete Codecademy's free ["Learn Python"](https://www.codecademy.com/learn/python) lesson to start practicing Python syntax.
     - *Additional Options:*
-        - [Learn Python the Hard  Way](http://learnpythonthehardway.org/book/) - Try exercises 1-10.
+        - [Learn Python the Hard  Way](http://learnpythonthehardway.org/book/) - Work through exercises 1-10.
 
 2. Complete our [Command Line](http://generalassembly.github.io/prework/cl/#/) tutorial to become more familiar with  Terminal commands.
     - *Additional Options:*
-        - [Learn Command Line THW](http://cli.learncodethehardway.org/book/) - Try running through these exercises.
+        - [Learn Command Line THW](http://cli.learncodethehardway.org/book/) - Try your hand at these exercises.
 
 3. Complete this [10 minute guide to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html), a common data analysis library.
     - *Additional Options:*
